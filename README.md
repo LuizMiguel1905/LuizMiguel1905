@@ -1,5 +1,5 @@
 # Olá! Me chamo Luiz Miguel
-- 🧑🏻‍💻Cursando o 7° semestre de Ciências da Computação na UNIFOR
+- 🧑🏻‍💻Cursando o 8° semestre de Ciências da Computação na UNIFOR
 - ✍️ Estudando Java, Javascript, e Node.js
 - 📨Contato comigo através do meu e-mail: luizmgc1930@gmail.com
 
